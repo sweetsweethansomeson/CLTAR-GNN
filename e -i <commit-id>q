@@ -1,0 +1,119 @@
+[33mcommit 427566d386cc58a917ed52788b42807d0aaec840[m
+Author: sweetsweethansomeson <1098939707@qq.com>
+Date:   Sun Jun 13 16:10:52 2021 +0800
+
+    dataset
+
+[33mcommit 27e7380723c8cfd223280fe601bb2d9dca332d06[m
+Author: sweetsweethansomeson <1098939707@qq.com>
+Date:   Sat Jun 12 15:30:35 2021 +0800
+
+    init
+
+[33mcommit 7f6737ebd219404fab4b4f568a8bbf5f35524efa[m
+Author: sweetsweethansomeson <1098939707@qq.com>
+Date:   Sat Jun 12 14:38:22 2021 +0800
+
+    CLTAR-GNN
+
+[33mcommit 6f62a8d96ac29b14e0b9f3b28fde9dedf628b9b8[m
+Author: ueiyang <1242727205@qq.com>
+Date:   Sat Jun 12 13:53:31 2021 +0800
+
+    init
+
+[33mcommit ba79401175007663acd4d623971dfa77733a8521[m
+Author: ueiyang <1242727205@qq.com>
+Date:   Mon May 31 23:20:30 2021 +0800
+
+    使用simcse对比学习
+
+[33mcommit 7bcfca54acfb20356395d2b78b0869d103171a30[m
+Author: ueiyang <1242727205@qq.com>
+Date:   Mon May 31 22:53:18 2021 +0800
+
+    重置
+
+[33mcommit 628ff35718a984e3decb1531a4627fc5a42c86e7[m
+Author: ueiyang <1242727205@qq.com>
+Date:   Sun May 30 15:48:20 2021 +0800
+
+    更改forward参数
+
+[33mcommit 7a74ca055e62c8a46aefba96ff51ba95edf160ed[m
+Author: ueiyang <1242727205@qq.com>
+Date:   Sun May 30 11:51:08 2021 +0800
+
+    更改forward参数
+
+[33mcommit 6151b989d2479bdc7356df180b016cc224f3ed8c[m
+Author: ueiyang <1242727205@qq.com>
+Date:   Sun May 30 10:09:26 2021 +0800
+
+    更改forward参数
+
+[33mcommit 0640f22a8e152ab29b5533f3069083a43b31dc6f[m
+Author: ueiyang <1242727205@qq.com>
+Date:   Sun May 30 10:05:12 2021 +0800
+
+    更改get_slice方法
+
+[33mcommit 868a8b7fc899d85191e20aed388722f7698ba19c[m
+Author: ueiyang <1242727205@qq.com>
+Date:   Sun May 30 09:59:09 2021 +0800
+
+    更改get_slice方法
+
+[33mcommit a85ec1472312f75a60537e2a0e431f8024074956[m
+Author: ueiyang <1242727205@qq.com>
+Date:   Sat May 29 23:42:27 2021 +0800
+
+    gnn和san一起训练
+
+[33mcommit 709ba7742af42034a87cf75f63975ccc6ad3c697[m
+Author: ueiyang <1242727205@qq.com>
+Date:   Sat May 29 13:18:32 2021 +0800
+
+    增加split_num参数
+
+[33mcommit 96cc4b7b2c53a6aa66cb22914731656ce649feb4[m
+Author: ueiyang <1242727205@qq.com>
+Date:   Sat May 29 12:43:02 2021 +0800
+
+    增加split_num参数
+
+[33mcommit 40f76a7b870a0b4f635afe1fd7710ac9646f46f3[m
+Author: ueiyang <1242727205@qq.com>
+Date:   Sat May 29 12:00:06 2021 +0800
+
+    使用奇偶+随机对比学习
+
+[33mcommit 99131dcb3468b9af80aa938cc218ee0d35e987c9[m
+Author: ueiyang <1242727205@qq.com>
+Date:   Thu May 27 23:12:17 2021 +0800
+
+    change readme
+
+[33mcommit e9e85d50413069326f4738082a4de2c6ae874cd4[m
+Author: sweetsweethansomeson <1098939707@qq.com>
+Date:   Mon May 24 13:30:01 2021 +0800
+
+    重构后将序列长度改为20，指标达51
+
+[33mcommit 0738af278796351a910f5b67fa7edd89e8227750[m
+Author: sweetsweethansomeson <1098939707@qq.com>
+Date:   Mon May 24 13:24:53 2021 +0800
+
+    重构后将序列长度改为20，指标可达51
+
+[33mcommit a3e245f3a884ef5363486b3d1ae66497482db519[m
+Author: sweetsweethansomeson <1098939707@qq.com>
+Date:   Sun May 23 18:04:42 2021 +0800
+
+    initial upload
+
+[33mcommit 077d0e831bf84f7bfe61cc4123c7e74e563a17e9[m
+Author: sweetsweethansomeson <51054215+sweetsweethansomeson@users.noreply.github.com>
+Date:   Sun May 23 17:49:27 2021 +0800
+
+    Initial commit
